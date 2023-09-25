@@ -21,7 +21,8 @@ Bachelor of Science Degree in Data Science from Champlain College (_May 2024_)
 ## Projects
 
 **Electronic Sports Data Analysis and Visualization**
-- My Electronic Sports Data Analysis and Visualization project delved into the realm of professional Counter-Strike: Global Offensive (CS:GO) matches, focusing on the popularity of maps among the top 30 teams. Leveraging a comprehensive CS:GO dataset containing match details, team compositions, and map pick/ban sequences, I aimed to answer the question: "What are the most popular and least popular maps in CSGO?" Through exploratory data analysis, I unveiled intriguing insights into map preferences among the competitive gaming community. Notably, the project shed light on how factors like map additions and removals over time influenced map pick rates. By presenting compelling visualizations and actionable findings, this project showcases my ability to extract valuable insights from complex esports data.  
+- My Electronic Sports Data Analysis and Visualization project delved into the realm of professional Counter-Strike: Global Offensive (CS:GO) matches, focusing on the popularity of maps among the top 30 teams. Leveraging a comprehensive CS:GO dataset containing match details, team compositions, and map pick/ban sequences, I aimed to answer the question: "What are the most popular and least popular maps in CSGO?" Through exploratory data analysis, I unveiled intriguing insights into map preferences among the competitive gaming community. Notably, the project shed light on how factors like map additions and removals over time influenced map pick rates. By presenting compelling visualizations and actionable findings, this project showcases my ability to extract valuable insights from complex esports data.
+       
 ![Example of Data Visualization](/assets/canvas.png)
 
 **Electronic Sports Score Prediction**

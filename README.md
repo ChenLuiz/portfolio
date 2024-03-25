@@ -1,6 +1,6 @@
-# Data Scientist
+# Data Analyst (Business Analytics Minor)
 
-### Technical Skills: Python, SQL, Streamlit, Excel, Geocoding
+### Technical Skills: Python, SQL, Streamlit, Excel, PowerBI
 
 ## Education
 Bachelor of Science Degree in Data Science from Champlain College (_May 2024_)

@@ -45,9 +45,9 @@ Bachelor of Science Degree in Data Science with a minor in Business Analytics fr
 
 **Electronic Sports Data Analysis and Visualization**  
 - Project Overview:  
-       - Explored professional Counter-Strike: Global Offensive (CS:GO) matches to analyze map popularity among the top 30 teams.  
-       - Leveraged a comprehensive CS:GO dataset to answer the question: "What are the most popular and least popular maps in CSGO?"  
-       - Unveiled insights into map preferences among the competitive gaming community and how map additions/removals influenced pick rates over time.  
+       - Explored professional Counter-Strike: Global Offensive (CS:GO) matches to analyze map popularity among the top 30 teams.   
+       - Leveraged a comprehensive CS:GO dataset to answer the question: "What are the most popular and least popular maps in CSGO?"   
+       - Unveiled insights into map preferences among the competitive gaming community and how map additions/removals influenced pick rates over time.   
 
 - Challenges and Reflections:  
         - Faced challenges in effectively conveying analysis insights and exploring methods for clear presentation.  

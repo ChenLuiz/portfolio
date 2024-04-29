@@ -44,27 +44,13 @@ Bachelor of Science Degree in Data Science with a minor in Business Analytics fr
 [Example of geocoding for ticket sales](https://vtlm.tiiny.site/)
 
 **Electronic Sports Data Analysis and Visualization**  
-- Project Overview:  
-       - Explored professional Counter-Strike: Global Offensive (CS:GO) matches to analyze map popularity among the top 30 teams.   
-       - Leveraged a comprehensive CS:GO dataset to answer the question: "What are the most popular and least popular maps in CSGO?"   
-       - Unveiled insights into map preferences among the competitive gaming community and how map additions/removals influenced pick rates over time.   
+For this project, I dug into professional Counter-Strike: Global Offensive (CS:GO) matches, specifically looking at map popularity among the top 30 teams. Using a hefty CS:GO dataset, I set out to figure out which maps were hot and which ones were not in the world of CSGO. Along the way, I uncovered some interesting trends about which maps players preferred and how changes to the map pool affected their choices.
 
-- Challenges and Reflections:  
-        - Faced challenges in effectively conveying analysis insights and exploring methods for clear presentation.  
-        - Recognized the potential for improvement through incorporating normalization techniques into visualizations.  
-        - Despite challenges, the project stands as a valuable learning experience and a source of actionable insights.  
+It wasn't all smooth sailing, though. I had my fair share of challenges, especially when it came to making sense of all the data and presenting my findings in a clear way. Looking back, I realize there's room for improvement, like finding better ways to visualize the data for easier understanding. But hey, that's all part of the learning process, right?
 
-- Technical Details:  
-       - Utilized Streamlit to develop an interactive web app for data exploration and analysis, showcasing proficiency in creating user-friendly interfaces.  
-       - Employed Altair and Pandas for data transformation, preprocessing, and cleaning.  
-       - Crafted interactive visualizations with features like tooltips, selection, and filtering to enhance user engagement.  
-       - Implemented dynamic dataset selection through a dropdown menu and utilized bar charts for illustrating map popularity.  
-       - Employed time series analysis for tracking map selection trends and label dictionaries for data labeling to enhance visual clarity.  
-       - Incorporated effective data storytelling elements such as subheaders, introductions, and conclusions to narrate insights.  
+On the technical side, I built an interactive web app using Streamlit to let users explore the data themselves. With tools like Altair and Pandas, I cleaned up the data and crafted some cool visualizations to help tell the story. From bar charts to time series analysis, I made sure the insights were easy to grasp and engaging to interact with.
 
-- Reflection on Improvement:  
-       - Acknowledged the opportunity to enhance visualizations through the incorporation of normalization techniques.  
-       - Despite areas for improvement, the project demonstrates proficiency in utilizing essential tools and technologies for comprehensive data analysis and visualization.  
+Reflecting on the project, I see areas where I could've done better, like improving the clarity of my visualizations. But overall, it's a testament to my ability to dive into complex data and come out with meaningful insights, all while keeping things user-friendly and engaging.
        
 ![Example of Data Visualization](/assets/canvas.png)
 

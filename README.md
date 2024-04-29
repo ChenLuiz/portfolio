@@ -27,7 +27,7 @@ Bachelor of Science Degree in Data Science with a minor in Business Analytics fr
 - Provided personalized guidance and support to international students, addressing concerns related to academic, social, and cultural adjustments
 
 **Treasurer @ Champlain College Esports (_March 2022 - December 2022_)**
--  Collaborated with team members to ensure financial sustainability and growth
+- Collaborated with team members to ensure financial sustainability and growth
 - Participated in decision-making regarding financial allocations
 - Helped organize and execute large-scale campus events
 - Managed team budgets and the club budgets
@@ -43,28 +43,28 @@ Bachelor of Science Degree in Data Science with a minor in Business Analytics fr
 
 [Example of geocoding for ticket sales](https://vtlm.tiiny.site/)
 
-**Electronic Sports Data Analysis and Visualization**
-- Project Overview:
-       - Explored professional Counter-Strike: Global Offensive (CS:GO) matches to analyze map popularity among the top 30 teams.
-       - Leveraged a comprehensive CS:GO dataset to answer the question: "What are the most popular and least popular maps in CSGO?"
-       - Unveiled insights into map preferences among the competitive gaming community and how map additions/removals influenced pick rates over time.
+**Electronic Sports Data Analysis and Visualization**  
+- Project Overview:  
+       - Explored professional Counter-Strike: Global Offensive (CS:GO) matches to analyze map popularity among the top 30 teams.  
+       - Leveraged a comprehensive CS:GO dataset to answer the question: "What are the most popular and least popular maps in CSGO?"  
+       - Unveiled insights into map preferences among the competitive gaming community and how map additions/removals influenced pick rates over time.  
 
-- Challenges and Reflections:
-        - Faced challenges in effectively conveying analysis insights and exploring methods for clear presentation.
-        - Recognized the potential for improvement through incorporating normalization techniques into visualizations.
-        - Despite challenges, the project stands as a valuable learning experience and a source of actionable insights.
+- Challenges and Reflections:  
+        - Faced challenges in effectively conveying analysis insights and exploring methods for clear presentation.  
+        - Recognized the potential for improvement through incorporating normalization techniques into visualizations.  
+        - Despite challenges, the project stands as a valuable learning experience and a source of actionable insights.  
 
-- Technical Details:
-       - Utilized Streamlit to develop an interactive web app for data exploration and analysis, showcasing proficiency in creating user-friendly interfaces.
-       - Employed Altair and Pandas for data transformation, preprocessing, and cleaning.
-       - Crafted interactive visualizations with features like tooltips, selection, and filtering to enhance user engagement.
-       - Implemented dynamic dataset selection through a dropdown menu and utilized bar charts for illustrating map popularity.
-       - Employed time series analysis for tracking map selection trends and label dictionaries for data labeling to enhance visual clarity.
-       - Incorporated effective data storytelling elements such as subheaders, introductions, and conclusions to narrate insights.
+- Technical Details:  
+       - Utilized Streamlit to develop an interactive web app for data exploration and analysis, showcasing proficiency in creating user-friendly interfaces.  
+       - Employed Altair and Pandas for data transformation, preprocessing, and cleaning.  
+       - Crafted interactive visualizations with features like tooltips, selection, and filtering to enhance user engagement.  
+       - Implemented dynamic dataset selection through a dropdown menu and utilized bar charts for illustrating map popularity.  
+       - Employed time series analysis for tracking map selection trends and label dictionaries for data labeling to enhance visual clarity.  
+       - Incorporated effective data storytelling elements such as subheaders, introductions, and conclusions to narrate insights.  
 
-- Reflection on Improvement:
-       - Acknowledged the opportunity to enhance visualizations through the incorporation of normalization techniques.
-       - Despite areas for improvement, the project demonstrates proficiency in utilizing essential tools and technologies for comprehensive data analysis and visualization.
+- Reflection on Improvement:  
+       - Acknowledged the opportunity to enhance visualizations through the incorporation of normalization techniques.  
+       - Despite areas for improvement, the project demonstrates proficiency in utilizing essential tools and technologies for comprehensive data analysis and visualization.  
        
 ![Example of Data Visualization](/assets/canvas.png)
 

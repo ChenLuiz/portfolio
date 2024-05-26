@@ -2,6 +2,9 @@
 
 ### Technical Skills: Python, SQL, Streamlit, Excel, PowerBI
 
+## About Me
+Hello! I'm Luiz Chen, a recent graduate with a Bachelor's degree in Data Science and a minor in Business Analytics from Champlain College. My academic journey provided me with a solid foundation in statistical analysis, machine learning, and data visualization. My studies have also given me a solid understanding of business principles and strategies. One of my main career goals is to become a leading data scientist who excels technically and contributes to strategic decision-making within an organization. I aim to work on projects that drive innovation and efficiency, making a significant impact on business outcomes.
+
 ## Projects
 **Vermont Lake Monsters Business Data Analysis**
 - Conducted data cleaning on concessions sales data sourced from various files, amalgamating them into a unified dataset for comprehensive analysis

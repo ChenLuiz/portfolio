@@ -15,7 +15,9 @@ Hello! I'm Luiz Chen, a recent graduate with a Bachelor's degree in Data Science
 
 [Example of geocoding for ticket sales](https://vtlm.tiiny.site/)
 
-**Electronic Sports Data Analysis and Visualization**  
+**Electronic Sports Data Analysis and Visualization** 
+[Access Link](https://chenluiz-data-visualizations.streamlit.app/)
+
 For this project, I dug into professional Counter-Strike: Global Offensive (CS:GO) matches, specifically looking at map popularity among the top 30 teams. Using a hefty CS:GO dataset, I set out to figure out which maps were hot and which ones were not in the world of CSGO. Along the way, I uncovered some interesting trends about which maps players preferred and how changes to the map pool affected their choices.
 
 It wasn't all smooth sailing, though. I had my fair share of challenges, especially when it came to making sense of all the data and presenting my findings in a clear way. Looking back, I realize there's room for improvement, like finding better ways to visualize the data for easier understanding. But hey, that's all part of the learning process, right?

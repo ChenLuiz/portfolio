@@ -2,37 +2,6 @@
 
 ### Technical Skills: Python, SQL, Streamlit, Excel, PowerBI
 
-## Education
-Bachelor of Science Degree in Data Science with a minor in Business Analytics from Champlain College (_May 2024_)
-- **Honors**: Dean’s List 2023 and 2024
-
-## Work Experience
-**Data Science Intern @ JedAI Analytics (_May 2021 - August 2021_)**
-- Designed and constructed geocoding infrastructure from inception by testing multiple APIs to identify the most cost-effective and efficient solution
-- Conducted a Brazilian real estate market analysis using geocoding
-- Gathered Brazilian housing market data and helped with the data-cleaning process
-- Leveraged SQL to gather relevant data from different databases
-- Gained familiarity with Docker through practical application
-
-**Data Specialist @ Champlain College (_August 2023 - February 2024_)**
-- Managed donations to the college and donor databases
-- Worked on data cleanup projects involving sensitive donation data
-- Utilized Microsoft Excel and Word to track progress and transfer data
-- Mastered Blackbaud Raiser's Edge database to streamline and optimize data organization
-- Ensured data integrity in multiple databases
-
-**Orientation Leader @ Champlain College OISS (_August 2023 - September 2023_)**
-- Spearheaded orientation program for international students, facilitating seamless integration into campus life and academic culture
-- Orchestrated engaging activities to foster cross-cultural understanding and community among diverse student populations
-- Provided personalized guidance and support to international students, addressing concerns related to academic, social, and cultural adjustments
-
-**Treasurer @ Champlain College Esports (_March 2022 - December 2022_)**
-- Collaborated with team members to ensure financial sustainability and growth
-- Participated in decision-making regarding financial allocations
-- Helped organize and execute large-scale campus events
-- Managed team budgets and the club budgets
-- Calculated amounts for expenditures and income
-
 ## Projects
 **Vermont Lake Monsters Business Data Analysis**
 - Conducted data cleaning on concessions sales data sourced from various files, amalgamating them into a unified dataset for comprehensive analysis

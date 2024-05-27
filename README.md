@@ -6,7 +6,7 @@
 Hello! I'm Luiz Chen, a recent graduate with a Bachelor's degree in Data Science and a minor in Business Analytics from Champlain College. My academic journey provided me with a solid foundation in statistical analysis, machine learning, and data visualization. My studies have also given me a solid understanding of business principles and strategies. One of my main career goals is to become a leading data scientist who excels technically and contributes to strategic decision-making within an organization. I aim to work on projects that drive innovation and efficiency, making a significant impact on business outcomes.
 
 ## Projects
-**Vermont Lake Monsters Business Data Analysis** ([View in Colab](https://colab.research.google.com/drive/1oq9r6YTVKxWudT-YAbd7TB-pR8CQk_tw?usp=sharing))
+**Vermont Lake Monsters Business Data Analysis** ([View in Colab](https://colab.research.google.com/drive/1oq9r6YTVKxWudT-YAbd7TB-pR8CQk_tw?usp=sharing))      
 For this project, I dove into Vermont Lake Monsters' concessions sales data from various files, merging them into a unified dataset for comprehensive analysis. My aim was to pinpoint the top-selling items and see how much net income was generated from them while identifying low-performing items to guide strategic decision-making.
 
 I encountered difficulties in data cleaning and presentation, but these obstacles sharpened my skills in identifying revenue center performance, highlighting the highest and lowest-performing areas to drive targeted optimization efforts.

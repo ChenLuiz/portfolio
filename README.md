@@ -4,7 +4,7 @@
 Hello! I'm Luiz Chen, a recent graduate with a Bachelor's degree in Data Science and a minor in Business Analytics from Champlain College. My academic journey gave me a solid foundation in statistical analysis, machine learning, and data visualization. My studies have also given me a solid understanding of business principles and strategies. One of my main career goals is to become a leading data scientist who excels technically and contributes to strategic decision-making within an organization. I aim to work on projects that drive innovation and efficiency, significantly impacting business outcomes.
 
 ## Projects
-**Vermont Lake Monsters Business Data Analysis** ([Github Landing Page](https://github.com/ChenLuiz/concessions_data_analysis)|[Code](https://github.com/ChenLuiz/concessions_data_analysis/blob/main/lake_monsters.ipynb))      
+**Vermont Lake Monsters Concessions Data Analysis** ([Github Landing Page](https://github.com/ChenLuiz/concessions_data_analysis)|[Code](https://github.com/ChenLuiz/concessions_data_analysis/blob/main/lake_monsters.ipynb))      
 This project involves a detailed analysis of the Vermont Lake Monsters' concessions sales data. The objective is to uncover patterns, identify trends, and provide actionable insights that can help improve sales strategies. The project shows my ability to handle real-world data and apply analytical techniques to derive meaningful conclusions.
 
 [Example of geocoding for ticket sales](https://chenluiz.github.io/concessions_data_analysis/)

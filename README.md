@@ -5,19 +5,12 @@ Hello! I'm Luiz Chen, a recent graduate with a Bachelor's degree in Data Science
 
 ## Projects
 **Vermont Lake Monsters Business Data Analysis** ([View in Colab](https://colab.research.google.com/drive/1oq9r6YTVKxWudT-YAbd7TB-pR8CQk_tw?usp=sharing))      
-
-For this project, I dove into Vermont Lake Monsters' concessions sales data, merging various files into a cohesive dataset for analysis. My goal was to pinpoint the top-selling items and see how much net income was generated from them while identifying low-performing items to inform strategic decisions.
-
-Cleaning and presenting the data was challenging, but these hurdles enhanced my ability to identify which revenue centers were performing well and which needed improvement, driving targeted optimization efforts.
-
-I also explored seasonal patterns within the data, using these insights to tweak operational strategies despite having limited historical data. Additionally, I applied geocoding techniques to analyze ticket sales data geographically, revealing key trends and customer distribution patterns.
-
-Reflecting on the project, I see room for improvement, especially in making my data visualizations clearer. Nonetheless, the experience highlighted my knack for diving into complex data and extracting meaningful insights, all while keeping the presentation user-friendly and engaging.
+This project involves a detailed analysis of the Vermont Lake Monsters' concessions sales data. The objective is to uncover patterns, identify trends, and provide actionable insights that can help improve sales strategies. The project shows my ability to handle real-world data and apply analytical techniques to derive meaningful conclusions.
 
 [Example of geocoding for ticket sales](https://vtlm.tiiny.site/)
 
 
-**Basic spam filter project** ([Github Landing Page](https://github.com/ChenLuiz/basic_spam_filter)|[Code](https://github.com/ChenLuiz/basic_spam_filter/blob/main/spam_filter.ipynb)      
+**Basic spam filter project** ([Github Landing Page](https://github.com/ChenLuiz/basic_spam_filter)|[Code](https://github.com/ChenLuiz/basic_spam_filter/blob/main/spam_filter.ipynb))      
 This project is a basic spam filter designed to practice and apply concepts I've learned throughout my college experience. The project features two different filters: one utilizing the built-in CountVectorizer method and another that implements an alternative approach. This hands-on project demonstrates my understanding of text processing and classification techniques in a simple yet effective way.
 
 
@@ -35,4 +28,4 @@ Reflecting on the project, I see areas where I could've done better, like improv
 
 
 **Electronic Sports Score Prediction**     
-In my Electronic Sports Score Prediction project, I harnessed professional Counter-Strike: Global Offensive (CS:GO) match data spanning several years to explore the extent to which rank differences could predict match outcomes, accounting for map and starting side variables. Despite the project's outcome not aligning with the original prediction, the experience was invaluable. This endeavor highlighted the intricate challenges of applying machine learning to sports score prediction, revealing the limitations in quantifying unmeasurable factors that significantly influence match results. By showcasing the complexities and shortcomings of such predictions, this project underscored the importance of considering human and contextual nuances in machine learning applications.
+In my Electronic Sports Score Prediction project, I used professional Counter-Strike: Global Offensive (CS:GO) match data from several years to see how well rank differences could predict match outcomes, considering variables like the map and starting side. Although the results didn't match the initial predictions, the project was incredibly insightful. I believe that this project could have been improved if I had more data available to me. It highlighted the challenges of using machine learning for sports score predictions, especially when trying to account for unmeasurable factors that impact match results. This project showed me the importance of considering human and contextual elements in machine learning, and it highlighted the difficulties of making accurate predictions when there are so many variables.

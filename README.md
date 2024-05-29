@@ -9,7 +9,7 @@ This project involves a detailed analysis of the Vermont Lake Monsters' concessi
 
 [Example of geocoding for ticket sales](https://chenluiz.github.io/concessions_data_analysis/)
 
-***Vermont Lake Monsters Power BI*** ([Github](https://github.com/ChenLuiz/LakeMonstersData)|[Report](https://app.powerbi.com/reportEmbed?reportId=db2a7cac-a51a-44b4-9768-154d76fa2136&autoAuth=true&ctid=d51d7a76-142c-4c45-9d41-c73ad5724b90))      
+**Vermont Lake Monsters Power BI** ([Github](https://github.com/ChenLuiz/LakeMonstersData)|[Report](https://app.powerbi.com/reportEmbed?reportId=db2a7cac-a51a-44b4-9768-154d76fa2136&autoAuth=true&ctid=d51d7a76-142c-4c45-9d41-c73ad5724b90))      
 This project provides an in-depth analysis of the Vermont Lake Monsters' 2023 season data. I developed a series of interactive dashboards using datasets covering concessions, ticket sales, and merchandise sales. These tools offer valuable insights into which items or areas the Vermont Lake Monsters should target to boost sales or optimize revenue through strategic price adjustments.
 
 [Example of geocoding for ticket sales](https://chenluiz.github.io/concessions_data_analysis/)

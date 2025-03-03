@@ -1,9 +1,11 @@
 # Hi there, I'm Luiz Chen!
 
 ## About Me
-I'm a recent graduate with a Bachelor's degree in Data Science and a minor in Business Analytics from Champlain College. My academic journey gave me a solid foundation in statistical analysis, machine learning, and data visualization. My studies have also given me a solid understanding of business principles and strategies. One of my main career goals is to become a leading data scientist who excels technically and contributes to strategic decision-making within an organization. I aim to work on projects that drive innovation and efficiency, significantly impacting business outcomes.
+I am a data-driven analyst specializing in data science, business intelligence, and market analysis. With expertise in Python, SQL, Power BI, and Tableau, I transform complex datasets into actionable insights that drive business decisions. My passion lies in automation, reporting, and operational optimization, helping organizations improve efficiency and uncover revenue opportunities.
 
-## Projects
+I have experience working at Radio Vermont Group, Champlain College, and JedAi Analytics, where I developed data visualization tools, automated reporting processes, and conducted in-depth market analysis. My work has led to optimized sales strategies, streamlined operations, and improved decision-making across various industries.
+
+## Personal Projects
 **Vermont Lake Monsters Concessions Data Analysis** ([Github](https://github.com/ChenLuiz/concessions_data_analysis)|[Code](https://github.com/ChenLuiz/concessions_data_analysis/blob/main/lake_monsters.ipynb))      
 This project involves a detailed analysis of the Vermont Lake Monsters' concessions sales data. The objective is to uncover patterns, identify trends, and provide actionable insights that can help improve sales strategies. The project shows my ability to handle real-world data and apply analytical techniques to derive meaningful conclusions.
 
